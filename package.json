@@ -1,0 +1,13 @@
+{
+  "name": "shelf-api",
+  "version": "1.0.0",
+  "description": "Shelf: a small books API planted by TalNex with known strengths and known flaws",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
